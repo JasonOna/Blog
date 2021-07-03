@@ -1,0 +1,17 @@
+{
+  "title": "Jason Ona's Blog",
+  "author": "Jason Ona",
+  "headerTitle": "OnaBlog",
+  "description": "A blog created with Next.js and Tailwind.css",
+  "language": "en-us",
+  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "jason@cogent.co",
+  "github": "https://github.com/JasonOna",
+  "twitter": "https://twitter.com/Twitter/Jason_Data",
+  "youtube": "https://youtube.com",
+  "linkedin": "https://www.linkedin.com/jason-ona",
+  "locale": "en-US"
+}
